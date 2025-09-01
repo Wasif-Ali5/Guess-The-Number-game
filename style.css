@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: black;
+}
+.head{
+    height: 5rem;
+    color: #fff;
+    line-height: 5rem;
+    background-color: #212121;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#header {
+    font-size: 2rem;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.container{
+    height: 60vh;
+    width:  70vh;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6rem;
+    margin-left: 26rem;
+    background-color: grey;
+}
+p{
+    font-size: 14;
+}
+.msg {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    line-height: 2rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 14;
+}
+
+.choices{
+    display: inline;
+    justify-content: center;
+    align-items: center;
+}
+
+#user-input {
+    height: 2rem;
+    width: 12rem;
+    border: 0.5px solid black;
+    margin-left: 8rem;
+    margin-bottom: 0.5rem;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#btn {
+    height: 2rem;
+    width: 12rem;
+    border: 0.5px solid black;
+    margin-top: 1rem;
+    margin-left: 8rem;
+    margin-bottom: 0.5rem;
+    color: #fff;
+    background-color: #212121;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.details{
+    margin-top: 1rem;
+    margin-left: 8rem;
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#rem-att{
+    margin-top: 0.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
